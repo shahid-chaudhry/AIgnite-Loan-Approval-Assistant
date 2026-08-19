@@ -6,7 +6,7 @@ import joblib
 # Page configuration
 st.set_page_config(
     page_title="AIgnite | AI Loan Approval Assistant",
-    page_icon="assets/aignite_logo.png",
+    page_icon="aignite_fevicon_wbg_edited.png",
     layout="wide",
     initial_sidebar_state="expanded"
 )
