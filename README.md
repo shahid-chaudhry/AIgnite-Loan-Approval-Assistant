@@ -31,6 +31,14 @@ The trained model is integrated into a user-friendly Streamlit web application w
 
 ---
 
+🌐 Live Demo
+
+🚀 Try the application:
+
+https://aignite-loan-approval-assistant.streamlit.app/
+
+---
+
 ## 🎯 Objective
 
 The main objectives of this project are:
