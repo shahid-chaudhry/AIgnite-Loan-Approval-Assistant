@@ -41,7 +41,19 @@ The deployed application provides a simple interface where users can enter appli
 
 ---
 
+<<<<<<< HEAD
 ## 🎯 Problem Statement
+=======
+🌐 Live Demo
+
+🚀 Try the application:
+
+https://aignite-loan-approval-assistant.streamlit.app/
+
+---
+
+## 🎯 Objective
+>>>>>>> de0b469d830d0b7bfc351deecee6ad44ee3ff399
 
 The goal of this project is to build a machine learning model that can predict whether a loan application will be approved or rejected based on historical applicant data.
 
@@ -293,6 +305,7 @@ AI & Machine Learning Enthusiast | Python Developer
 
 ## ⭐ Support
 
+<<<<<<< HEAD
 If you found this project useful, consider giving the repository a ⭐ on GitHub!
 
 ---
@@ -302,3 +315,6 @@ If you found this project useful, consider giving the repository a ⭐ on GitHub
 **Artificial Intelligence • Machine Learning • Data Science • Web Applications**
 
 *Turning Data into Decisions.*
+=======
+This project is intended for educational and portfolio purposes.
+>>>>>>> de0b469d830d0b7bfc351deecee6ad44ee3ff399
